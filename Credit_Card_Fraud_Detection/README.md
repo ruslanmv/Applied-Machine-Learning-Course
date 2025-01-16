@@ -1,6 +1,3 @@
-Okay, here is a comprehensive `README.md` file for the "Credit Card Fraud Detection" module, designed to be placed in the `./Credit_Card_Fraud_Detection/` directory of your course repository. It's structured as a detailed guide for your students, including a thorough introduction, step-by-step instructions with clear Python code and explanations, exercises, and additional resources.
-
-````markdown
 # Credit Card Fraud Detection
 
 Welcome to the Credit Card Fraud Detection module of the Applied Machine Learning Course!
