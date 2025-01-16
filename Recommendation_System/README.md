@@ -1,4 +1,3 @@
-````markdown
 # Recommendation Systems
 
 Welcome to the Recommendation Systems module of the Applied Machine Learning Course!

@@ -1,4 +1,3 @@
-````markdown
 # Social Media Analytics: Hashtag Popularity Prediction
 
 Welcome to the Social Media Analytics module of the Applied Machine Learning Course! In this module, we'll focus on predicting the popularity of hashtags on Twitter.
