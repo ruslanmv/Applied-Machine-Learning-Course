@@ -1,4 +1,3 @@
-````markdown
 # Sales Forecasting
 
 Welcome to the Sales Forecasting module of the Applied Machine Learning Course!
