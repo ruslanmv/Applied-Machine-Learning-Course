@@ -1,4 +1,3 @@
-````markdown
 # Image Classification with Convolutional Neural Networks (CNNs)
 
 Welcome to the Image Classification module of the Applied Machine Learning Course!
