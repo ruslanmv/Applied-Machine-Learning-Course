@@ -109,7 +109,7 @@ Welcome to the **Applied Machine Learning Course**! This course is designed to p
 ## How to Use This Repository
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ruslanmv/applied-ml-course.git
+   git clone https://github.com/ruslanmv/applied-machine-learning-course.git
    ```
 2. Navigate to the folder of the section you want to explore.
 3. Follow the instructions in the respective folder's README.md file.
